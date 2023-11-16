@@ -1,2 +1,0 @@
-# OBM
-Opportunity business model 
