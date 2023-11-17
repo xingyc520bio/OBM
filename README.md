@@ -72,7 +72,11 @@ First is that we find some of other advantages of affimer compare with antibody.
 2. High production in e.coli.
 3. Stablity.
 
-I also think we can produce fluorescently labeled secondary antibodies for immunocytochemistry and in vivo immunostaining.
+I also think we can produce fluorescently labeled secondary antibodies for immunocytochemistry and in vivo immunostaining. permeabilizing cells using detergent (Triton X-100 or Tween-20) or choosing organic fixatives (acetone, methanol, or ethanol) is necessary in in vivo act. Affimer is small and can be easily to entrance the cell membrane.
+
+
+My teammate strongly agree with my views. The three of them are amazing. We search a lot of documents, explained to each other, and had a heated discussion until lunch time.
+Although none of us have immunological background, we are very serious and learned a lot today.
 
 
 
